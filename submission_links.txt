@@ -1,0 +1,10 @@
+GitHub Repository: https://github.com/g25ait2016-bot/mlops-assignment2-goodreads-distilbert
+Kaggle Notebook: https://www.kaggle.com/code/anukumarkg25ait2016/anukumar-mlops-assn2-final
+Hugging Face Model: https://huggingface.co/Aukrk/distilbert-goodreads-genres
+W&B Dashboard: https://wandb.ai/anuaussie-prom-iit-rajasthan/mlops-assignment2
+W&B Run: https://wandb.ai/anuaussie-prom-iit-rajasthan/mlops-assignment2/runs/l88vnpqs
+
+Final Metrics:
+Accuracy: 0.56937
+F1 Score: 0.57111
+Eval Loss: 2.4409
